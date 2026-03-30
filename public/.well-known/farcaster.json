@@ -1,0 +1,11 @@
+{
+  "accountAssociation": { "header": "...", "payload": "...", "signature": "..." },
+  "frame": {
+    "version": "1",
+    "name": "BASED-RPS",
+    "iconUrl": "https://based-rps-game.vercel.app/icon.png",
+    "homeUrl": "https://based-rps-game.vercel.app",
+    "splashImageUrl": "https://based-rps-game.vercel.app/splash.png",
+    "splashBackgroundColor": "#0052FF"
+  }
+}
